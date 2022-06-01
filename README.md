@@ -1,4 +1,4 @@
-<h2>Salve <img src="img/hi.gif" width="24px">, devs!</h2>
+<h2>Salve <img src="img/hi.gif" width="24">, devs!</h2>
 
 <h3>:rocket: Me chamo Luiz Fernando e sou back-end developer!</h3>
 <div align="center">
