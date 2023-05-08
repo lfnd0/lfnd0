@@ -1,6 +1,6 @@
 <h2>Salve <img src="img/hi.gif" width="24">, devs!</h2>
 
-<h3>:rocket: Me chamo Luiz Fernando e sou desenvolvedor!</h3>
+<h3>:rocket: Me chamo Luiz Fernando e sou desenvolvedor web!</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/luizfernando2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:luiz-fsilva37@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -10,7 +10,7 @@
 
 <h3>:memo: Um pouco sobre mim:</h3>
 <ul>
-  <li>:mortar_board: Recentemente concluí o curso de Ciência da Computação na UFAL/Arapiraca.</li>
+  <li>:mortar_board: Possuo bacharelado em Ciência da Computação (UFAL/Arapiraca) e licenciatura em Ciências Biológicas (UNEAL/Arapiraca).</li>
   <li>:books: Estou estudando Node.js para o desenvolvimento back-end de aplicações.</li>
   <li>:bulb: Gosto de aprender sobre novas tecnologias e ferramentas de desenvolvimento.</li>
   <li>:atom_symbol: E sou um grande apreciador do gênero Ficção Científica.</li>
@@ -25,11 +25,12 @@
 
 <h3>:hammer_and_wrench: Linguagens e ferramentas:</h3>
 <div>
-  <img align="center" alt="Django" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Express.js" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-  <img align="center" alt="HTML 5" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node.js" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Express.js" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="PostgreSQL" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Git" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Docker" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="VS Code" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
 </div>
