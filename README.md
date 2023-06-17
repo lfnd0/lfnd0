@@ -16,12 +16,12 @@
   <li>:atom_symbol: E sou um grande apreciador do gênero Ficção Científica.</li>
 </ul>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/lfnd0">
     <img height="166px" src="https://github-readme-stats.vercel.app/api?username=lfnd0&show_icons=true&count_private=true&theme=city_lights"/>
     <img height="166px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnd0&layout=compact&hide=css&langs_count=5&theme=city_lights"/>
   </a>
-</div>
+</div> -->
 
 <h3>:hammer_and_wrench: Linguagens e ferramentas:</h3>
 <div>
