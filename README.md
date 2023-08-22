@@ -1,6 +1,6 @@
 <h2>Salve <img src="img/hi.gif" width="24">, devs!</h2>
 
-<h3>:rocket: Me chamo Luiz Fernando e sou desenvolvedor web!</h3>
+<h3>:rocket: Me chamo Luiz Fernando e sou desenvolvedor back-end!</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/luizfernando2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:luiz-fsilva37@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -11,7 +11,7 @@
 <h3>:memo: Um pouco sobre mim:</h3>
 <ul>
   <li>:mortar_board: Possuo bacharelado em Ciência da Computação (UFAL/Arapiraca) e licenciatura em Ciências Biológicas (UNEAL/Arapiraca).</li>
-  <li>:books: Estou estudando Node.js para o desenvolvimento back-end de aplicações.</li>
+  <li>:books: Atualmente estudo e trabalho com Node.js no desenvolvimento de aplicações web.</li>
   <li>:bulb: Gosto de aprender sobre novas tecnologias e ferramentas de desenvolvimento.</li>
   <li>:atom_symbol: E sou um grande apreciador do gênero Ficção Científica.</li>
 </ul>
