@@ -18,9 +18,9 @@
 
 <div align="center">
   <a href="https://github.com/lfnd0">
-    <img height="166px" src="https://github-readme-stats.vercel.app/api?username=lfnd0&theme=gotham&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="166px" src="https://github-readme-streak-stats.herokuapp.com/?user=lfnd0&theme=gotham&hide_border=false"/>
-    <img height="166px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnd0&theme=gotham&show_icons=true&hide_border=false&layout=compact"/>
+    <!-- <img height="166px" src="https://github-readme-stats.vercel.app/api?username=lfnd0&theme=gotham&show_icons=true&hide_border=true&count_private=true"/> -->
+    <img height="166px" src="https://github-readme-streak-stats.herokuapp.com/?user=lfnd0&theme=gotham&hide_border=true"/>
+    <img height="166px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnd0&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=5"/>
   </a>
 </div>
 
