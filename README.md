@@ -1,6 +1,6 @@
-<h2>Salve <img src="img/hi.gif" width="24">, devs!</h2>
+<h2>Hi <img src="img/hi.gif" width="24">, devs!</h2>
 
-<h3>:rocket: Aqui é o Luiz Fernando!</h3>
+<h3>:rocket: Here's Luiz Fernando!</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/luizfernando2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:luiz-fsilva37@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -8,12 +8,12 @@
   <a href="https://instagram.com/lfnd0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<h3>:memo: Um pouco sobre mim:</h3>
+<h3>:memo: About me</h3>
 <ul>
-  <li>:mortar_board: Sou bacharel em Ciência da Computação (UFAL/Arapiraca) e licenciado em Ciências Biológicas (UNEAL/Arapiraca).</li>
-  <li>:books: Atualmente estudo e trabalho com Node.js no desenvolvimento de aplicações web.</li>
-  <li>:bulb: Gosto de aprender sobre novas tecnologias e ferramentas de desenvolvimento.</li>
-  <li>:atom_symbol: E sou um grande apreciador do gênero Ficção Científica.</li>
+  <li>:mortar_board: I've got a Bachelor's in Computer Science (UFAL/Arapiraca) and another in Biological Sciences (UNEAL/Arapiraca).</li>
+  <li>:books: Right now, I'm all about Node.js, building cool web apps.</li>
+  <li>:bulb: Always digging into new tech and dev tools.</li>
+  <li>:atom_symbol: Oh, and I'm a huge fan of sci-fi.</li>
 </ul>
 
 <div align="center">
@@ -24,7 +24,7 @@
   </a>
 </div>
 
-<h3>:hammer_and_wrench: Linguagens e ferramentas:</h3>
+<h3>:hammer_and_wrench: Languages and Tools</h3>
 <div>
   <img align="center" alt="Node.js" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
