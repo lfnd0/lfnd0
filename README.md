@@ -1,12 +1,9 @@
 <h2>Hi <img src="img/hi.gif" width="24">, devs!</h2>
 
 <h3>:rocket: Here's Luiz Fernando!</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/luizfernando2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://lfnd0.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-</div>
 
 <h3>:memo: About me</h3>
+
 <ul>
   <li>:mortar_board: I've got a Bachelor's in Computer Science (UFAL/Arapiraca) and another in Biological Sciences (UNEAL/Arapiraca).</li>
   <li>:books: Right now, I'm all about Node.js, building cool web apps.</li>
@@ -22,6 +19,7 @@
 </div>
 
 <h3>:hammer_and_wrench: Languages and Tools</h3>
+
 <div>
   <img align="center" alt="Node.js" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
