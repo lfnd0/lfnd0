@@ -3,9 +3,7 @@
 <h3>:rocket: Here's Luiz Fernando!</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/luizfernando2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:luiz-fsilva37@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://lfnd0.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/lfnd0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <h3>:memo: About me</h3>
@@ -18,7 +16,6 @@
 
 <div align="center">
   <a href="https://github.com/lfnd0">
-    <!-- <img height="166px" src="https://github-readme-stats.vercel.app/api?username=lfnd0&theme=gotham&show_icons=true&hide_border=false&count_private=true"/> -->
     <img height="166px" src="https://github-readme-streak-stats.herokuapp.com/?user=lfnd0&theme=gotham&hide_border=false"/>
     <img height="166px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnd0&theme=gotham&show_icons=true&hide_border=false&layout=compact&langs_count=5"/>
   </a>
